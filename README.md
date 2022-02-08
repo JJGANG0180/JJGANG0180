@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JJGANG0180
-- 👀 I’m interested in ... CODEIN
-- 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...  JJ G4NG #0001
 
 <!---
 JJGANG0180/JJGANG0180 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
